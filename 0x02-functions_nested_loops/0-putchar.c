@@ -7,7 +7,7 @@
 int main(void)
 {
 	char msg[9] = "_putchar";
-	int i = 0;
+	int i = 0 ;
 
 	while (msg[i] != '\0')
 	{
